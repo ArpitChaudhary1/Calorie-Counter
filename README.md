@@ -43,4 +43,4 @@ Create a user-friendly GUI with Tkinter or Streamlit
 
 📜 License
 ---
-This project is open source under the MIT License (if you add one).
+This project is open source under the MIT License.
