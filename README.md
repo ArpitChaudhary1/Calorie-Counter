@@ -16,10 +16,31 @@ It showcases the use of image handling, condition-based calorie lookup, and user
 
 - Accepts food image input (e.g., `apple.jpg`)
 - Recognizes the food type based on the image
-- Estimates and displays approximate calorie count
+- Estimates and displays the approximate calorie count
 - Simple and interactive command-line interface
 
 ---
+## 🛠️ Technologies Used
 
-## 📁 Project Structure
+- Python 3
+- Image handling with PIL or OpenCV (if used)
+- File input/output
+- Conditional logic for food recognition
+- Static dataset for calorie estimation
 
+---
+
+✅ Future Improvements
+---
+
+Use a larger food dataset for better recognition accuracy
+
+Build a calorie database using an API like Edamam or CalorieNinjas
+
+Create a user-friendly GUI with Tkinter or Streamlit
+
+---
+
+📜 License
+---
+This project is open source under the MIT License (if you add one).
